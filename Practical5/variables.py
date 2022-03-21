@@ -10,15 +10,6 @@ elif d<e:
 else:
  print("The rate of new cases in 2021 is the same as 2020")
 
-X=True
-Y=False
-W=X and Y
-print(W)
-
-X=True
-Y=True
-W=X and Y
-print(W)
 
 X="True"
 Y="False"
@@ -30,3 +21,12 @@ Y="True"
 W=X and Y
 print(W)
 
+X="Hello"
+Y=""
+W=X and Y
+print(W)
+
+X=""
+Y="Hello"
+W=X and Y
+print(W)
