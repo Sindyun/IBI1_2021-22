@@ -1,0 +1,8 @@
+question:Are there any places in the world where they have not been more than
+5 total infections(as of 31 March)? If so, where are they?
+
+The answer is between 55 to 65 lines in the covid.py file.
+
+According to the answer, we found that 6134 countries have no death due to
+covid pandamic (till 31 March), which is a large amount. However, the 
+global impact of COVID-19 is still enormous, so we cannot take it lightly. 
