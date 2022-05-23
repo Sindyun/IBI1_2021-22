@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 n = 8
 score = (45, 36, 86, 57, 53, 92, 65, 45)
 plt.title("Rob's marks")
+plt.xlabel("score")
 plt.boxplot(score, vert=False, whis=1.5, patch_artist=True, meanline=False, showbox=True, showcaps=True, showfliers=True, notch=False, boxprops=dict(facecolor="g"))
 plt.show()
 
