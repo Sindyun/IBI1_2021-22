@@ -160,4 +160,6 @@ title_translation = 'The number of childnodes for terms involving translation'
 make_boxplot(childnodes_store, title_translation)
 #Print the boxplot for the childnodes of translation
 
+#Each Gene Ontology term have 12.08177017321504 child nodes on average.
+#Translation terms have 13.486486486486486 child nodes on average.
 #Comment: More childNodes are shown in translation terms than the overall GO.
